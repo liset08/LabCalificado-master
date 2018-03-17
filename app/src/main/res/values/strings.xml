@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Lab Calificado</string>
+    <string-array name="android_layout_arrays">
+        <item>	Americana</item>
+        <item>	Pepperoni</item>
+        <item>	Hawaiana</item>
+        <item>	Meat Lover</item>
+
+    </string-array>
+
+</resources>
